@@ -43,6 +43,8 @@ In this exercise, you will:
       <img src="https://img.shields.io/badge/🚀_Start_Exercise-008000" height="25pt"/>
    </a>
 
+新人第一次学习gitub
+
 > [!IMPORTANT]
 > The **Start Exercise** button will activate after copying the repository. You will probably need to refresh the page.
 
